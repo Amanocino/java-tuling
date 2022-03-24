@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T11:43:49.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="19nkc_pSfAiIc5ejnFLe" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T07:07:50.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="oToNTkOZIRq_DHOIdYF_" version="17.1.3" type="github">
   <diagram id="DxHJc_R2YyCujJNMF_Zv" name="Page-1">
-    <mxGraphModel dx="1886" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,128 +77,155 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-33" value="用户管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="40" width="100" height="430" as="geometry" />
+          <mxGeometry x="400" y="40" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-34" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-33" vertex="1">
-          <mxGeometry x="45" y="70" width="10" height="320" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="390" as="geometry" />
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-61" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-33" vertex="1">
-          <mxGeometry x="49" y="350" width="10" height="30" as="geometry" />
+          <mxGeometry x="49" y="411" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-62" value="12、用户角色关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="JhATvFRGc8RiKFNdU_sc-33" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-62" value="用户角色关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="JhATvFRGc8RiKFNdU_sc-33" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="59" y="350" as="sourcePoint" />
+            <mxPoint x="59" y="411" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="89" y="350" />
+              <mxPoint x="89" y="411" />
             </Array>
-            <mxPoint x="64" y="370" as="targetPoint" />
+            <mxPoint x="64" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-35" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="JhATvFRGc8RiKFNdU_sc-33">
+          <mxGeometry x="49" y="330" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-36" value="用户新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" parent="JhATvFRGc8RiKFNdU_sc-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="59" y="330" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="89" y="330" />
+            </Array>
+            <mxPoint x="64" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-37" value="人员管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="40" width="100" height="430" as="geometry" />
+          <mxGeometry x="580" y="40" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-38" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-37" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-52" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-37" vertex="1">
-          <mxGeometry x="50" y="149" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-54" value="5、人员部门关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="JhATvFRGc8RiKFNdU_sc-37" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-59" value="角色信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" parent="JhATvFRGc8RiKFNdU_sc-37" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="149" as="sourcePoint" />
+            <mxPoint x="-125" y="367.0000000000001" as="sourcePoint" />
+            <mxPoint x="599.5" y="367" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-27" value="人员管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="JhATvFRGc8RiKFNdU_sc-37">
+          <mxGeometry width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-28" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Se7ObuLBj4AdphLszHnw-27">
+          <mxGeometry x="45" y="80" width="10" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-29" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Se7ObuLBj4AdphLszHnw-27">
+          <mxGeometry x="50" y="190" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-30" value="人员部门关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" parent="Se7ObuLBj4AdphLszHnw-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="190" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="90" y="149" />
+              <mxPoint x="90" y="190" />
             </Array>
-            <mxPoint x="65" y="169" as="targetPoint" />
+            <mxPoint x="65" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-59" value="10、角色信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" parent="JhATvFRGc8RiKFNdU_sc-37" target="JhATvFRGc8RiKFNdU_sc-48" edge="1">
+        <mxCell id="Se7ObuLBj4AdphLszHnw-38" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Se7ObuLBj4AdphLszHnw-27">
+          <mxGeometry x="50" y="90" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-39" value="人员新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" parent="Se7ObuLBj4AdphLszHnw-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-125" y="310.0000000000001" as="sourcePoint" />
-            <mxPoint x="45" y="310.0000000000001" as="targetPoint" />
+            <mxPoint x="60" y="90" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="90" />
+            </Array>
+            <mxPoint x="65" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-39" value="9、return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-39" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="455" y="329.4999999999998" as="targetPoint" />
-            <mxPoint x="625" y="329.4999999999998" as="sourcePoint" />
+            <mxPoint x="455" y="359.4999999999998" as="targetPoint" />
+            <mxPoint x="625" y="359.4999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-40" value="2、人员新增" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;rounded=0;" parent="1" source="JhATvFRGc8RiKFNdU_sc-34" target="JhATvFRGc8RiKFNdU_sc-38" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-40" value="人员新增" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;rounded=0;" parent="1" source="JhATvFRGc8RiKFNdU_sc-34" target="JhATvFRGc8RiKFNdU_sc-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="555" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-43" value="1、新增请求" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-43" value="新增请求" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="385" y="111" as="sourcePoint" />
             <mxPoint x="445" y="111" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-44" value="部门管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="40" width="100" height="430" as="geometry" />
+          <mxGeometry x="760" y="40" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-45" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-44" vertex="1">
-          <mxGeometry x="45" y="100" width="10" height="30" as="geometry" />
+          <mxGeometry x="45" y="130" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-50" value="3、部门信息校验" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;rounded=0;" parent="JhATvFRGc8RiKFNdU_sc-44" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-50" value="部门信息校验" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;rounded=0;" parent="JhATvFRGc8RiKFNdU_sc-44" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-125" y="100.00000000000011" as="sourcePoint" />
-            <mxPoint x="45" y="100.00000000000011" as="targetPoint" />
+            <mxPoint x="-125" y="136.0000000000001" as="sourcePoint" />
+            <mxPoint x="45" y="136.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-55" value="6、岗位信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" parent="JhATvFRGc8RiKFNdU_sc-44" target="JhATvFRGc8RiKFNdU_sc-46" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-55" value="岗位信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" parent="JhATvFRGc8RiKFNdU_sc-44" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-125" y="200.0000000000001" as="sourcePoint" />
-            <mxPoint x="45" y="200.0000000000001" as="targetPoint" />
+            <mxPoint x="-125" y="230.0000000000001" as="sourcePoint" />
+            <mxPoint x="229.5" y="230.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-46" value="岗位管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="40" width="100" height="430" as="geometry" />
+          <mxGeometry x="940" y="40" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-47" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-46" vertex="1">
-          <mxGeometry x="45" y="200" width="10" height="30" as="geometry" />
+          <mxGeometry x="45" y="230" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-48" value="角色管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="40" width="100" height="430" as="geometry" />
+          <mxGeometry x="1130" y="40" width="100" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-49" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-48" vertex="1">
-          <mxGeometry x="45" y="310" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-51" value="4、return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-51" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="635" y="169.99999999999977" as="targetPoint" />
-            <mxPoint x="805" y="169.99999999999977" as="sourcePoint" />
+            <mxPoint x="635" y="204.99999999999977" as="targetPoint" />
+            <mxPoint x="805" y="204.99999999999977" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-56" value="7、return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-56" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="270" as="targetPoint" />
-            <mxPoint x="990" y="269.4999999999998" as="sourcePoint" />
+            <mxPoint x="640" y="301" as="targetPoint" />
+            <mxPoint x="990" y="300.4999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-57" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="628" y="283" width="10" height="30" as="geometry" />
+          <mxGeometry x="628" y="319" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-58" value="8、人员岗位关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-58" value="人员岗位关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="638" y="283" as="sourcePoint" />
+            <mxPoint x="638" y="319" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="668" y="283" />
+              <mxPoint x="668" y="319" />
             </Array>
-            <mxPoint x="643" y="303" as="targetPoint" />
+            <mxPoint x="643" y="339" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-60" value="11、return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-60" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="457" y="379" as="targetPoint" />
-            <mxPoint x="1177" y="379.4999999999998" as="sourcePoint" />
+            <mxPoint x="457" y="437" as="targetPoint" />
+            <mxPoint x="1177" y="437.4999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-63" value="13、return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-63" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="430" as="sourcePoint" />
-            <mxPoint x="370" y="430" as="targetPoint" />
+            <mxPoint x="450" y="500" as="sourcePoint" />
+            <mxPoint x="370" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
@@ -274,200 +301,176 @@
           <mxGeometry x="570" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-89" value="用户管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="50" width="100" height="670" as="geometry" />
+          <mxGeometry x="1440" y="50" width="100" height="750" as="geometry" />
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-90" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-89" vertex="1">
-          <mxGeometry x="45" y="70" width="10" height="580" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="650" as="geometry" />
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-91" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-89" vertex="1">
-          <mxGeometry x="50" y="470" width="10" height="30" as="geometry" />
+          <mxGeometry x="50" y="537" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-92" value="14、用户角色关系过滤" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="JhATvFRGc8RiKFNdU_sc-89" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-92" value="用户角色关系过滤" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="JhATvFRGc8RiKFNdU_sc-89" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="470" as="sourcePoint" />
+            <mxPoint x="60" y="537" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="90" y="470" />
+              <mxPoint x="90" y="537" />
             </Array>
-            <mxPoint x="65" y="490" as="targetPoint" />
+            <mxPoint x="65" y="557" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-132" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-89" vertex="1">
-          <mxGeometry x="50" y="570" width="10" height="30" as="geometry" />
+          <mxGeometry x="50" y="636" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-93" value="人员管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1620" y="50" width="100" height="670" as="geometry" />
+        <mxCell id="Se7ObuLBj4AdphLszHnw-42" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="JhATvFRGc8RiKFNdU_sc-89">
+          <mxGeometry x="50" y="80" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-94" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-93" vertex="1">
-          <mxGeometry x="45" y="80" width="10" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-95" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-93" vertex="1">
-          <mxGeometry x="50" y="93" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-96" value="3、人员部门关系过滤" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="JhATvFRGc8RiKFNdU_sc-93" edge="1">
+        <mxCell id="Se7ObuLBj4AdphLszHnw-43" value="用户信息编辑" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" parent="JhATvFRGc8RiKFNdU_sc-89">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="93" as="sourcePoint" />
+            <mxPoint x="60" y="80" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="90" y="93" />
+              <mxPoint x="90" y="80" />
             </Array>
-            <mxPoint x="65" y="113" as="targetPoint" />
+            <mxPoint x="65" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-122" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-93" vertex="1">
-          <mxGeometry x="50" y="270" width="10" height="30" as="geometry" />
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-93" value="人员管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1620" y="50" width="100" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-123" value="8、人员岗位关系过滤" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="JhATvFRGc8RiKFNdU_sc-93" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-94" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-93" vertex="1">
+          <mxGeometry x="45" y="120" width="10" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-95" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-93" vertex="1">
+          <mxGeometry x="50" y="158" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-96" value="人员部门关系过滤" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="JhATvFRGc8RiKFNdU_sc-93" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="270" as="sourcePoint" />
+            <mxPoint x="60" y="158" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="90" y="270" />
+              <mxPoint x="90" y="158" />
             </Array>
-            <mxPoint x="65" y="290" as="targetPoint" />
+            <mxPoint x="65" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-126" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-93" vertex="1">
-          <mxGeometry x="50" y="350" width="10" height="30" as="geometry" />
+          <mxGeometry x="50" y="433" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-127" value="11、人员岗位关系删除" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="JhATvFRGc8RiKFNdU_sc-93" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-127" value="人员岗位关系删除" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="JhATvFRGc8RiKFNdU_sc-93" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="350" as="sourcePoint" />
+            <mxPoint x="60" y="433" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="90" y="350" />
+              <mxPoint x="90" y="433" />
             </Array>
-            <mxPoint x="65" y="370" as="targetPoint" />
+            <mxPoint x="65" y="453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-128" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-93" vertex="1">
-          <mxGeometry x="50" y="390" width="10" height="30" as="geometry" />
+          <mxGeometry x="50" y="474" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-129" value="12、人员岗位关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="JhATvFRGc8RiKFNdU_sc-93" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-129" value="人员岗位关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="JhATvFRGc8RiKFNdU_sc-93" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="390" as="sourcePoint" />
+            <mxPoint x="60" y="474" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="90" y="390" />
+              <mxPoint x="90" y="474" />
             </Array>
-            <mxPoint x="65" y="410" as="targetPoint" />
+            <mxPoint x="65" y="494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-98" value="13、return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-98" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1495" y="499.9999999999998" as="targetPoint" />
-            <mxPoint x="1665" y="499.9999999999998" as="sourcePoint" />
+            <mxPoint x="1495" y="569.9999999999998" as="targetPoint" />
+            <mxPoint x="1665" y="569.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-99" value="2、人员编辑" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;rounded=0;" parent="1" source="JhATvFRGc8RiKFNdU_sc-90" target="JhATvFRGc8RiKFNdU_sc-94" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-99" value="人员编辑" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;rounded=0;" parent="1" source="JhATvFRGc8RiKFNdU_sc-90" target="JhATvFRGc8RiKFNdU_sc-94" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1595" y="130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-100" value="1、编辑请求" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-100" value="编辑请求" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="1425" y="121" as="sourcePoint" />
             <mxPoint x="1485" y="121" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-101" value="部门管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1800" y="50" width="100" height="772" as="geometry" />
+          <mxGeometry x="1800" y="50" width="100" height="750" as="geometry" />
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-102" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-101" vertex="1">
-          <mxGeometry x="45" y="140" width="10" height="30" as="geometry" />
+          <mxGeometry x="45" y="195" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-105" value="岗位管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1980" y="50" width="100" height="670" as="geometry" />
+          <mxGeometry x="1980" y="50" width="100" height="750" as="geometry" />
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-106" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-105" vertex="1">
-          <mxGeometry x="45" y="310" width="10" height="30" as="geometry" />
+          <mxGeometry x="45" y="381" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-125" value="10、return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.3;exitY=1.033;shadow=0;strokeWidth=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="JhATvFRGc8RiKFNdU_sc-105" source="JhATvFRGc8RiKFNdU_sc-106" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-125" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.3;exitY=1.033;shadow=0;strokeWidth=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="JhATvFRGc8RiKFNdU_sc-105" source="JhATvFRGc8RiKFNdU_sc-106" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-305" y="340" as="targetPoint" />
-            <mxPoint x="40" y="340.14" as="sourcePoint" />
+            <mxPoint x="-305" y="411" as="targetPoint" />
+            <mxPoint x="40" y="411.14" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-107" value="角色管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="2170" y="50" width="100" height="670" as="geometry" />
+          <mxGeometry x="2170" y="50" width="100" height="750" as="geometry" />
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-108" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="JhATvFRGc8RiKFNdU_sc-107" vertex="1">
-          <mxGeometry x="45" y="520" width="10" height="30" as="geometry" />
+          <mxGeometry x="45" y="582" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-114" value="19、return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-114" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1490" y="700" as="sourcePoint" />
-            <mxPoint x="1410" y="700" as="targetPoint" />
+            <mxPoint x="1490" y="770" as="sourcePoint" />
+            <mxPoint x="1410" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-115" value="17、用户角色关系删除" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-115" value="用户角色关系删除" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1494.9999999999995" y="620" as="sourcePoint" />
+            <mxPoint x="1494.9999999999995" y="686" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1525" y="620" />
+              <mxPoint x="1525" y="686" />
             </Array>
-            <mxPoint x="1499.9999999999995" y="640" as="targetPoint" />
+            <mxPoint x="1499.9999999999995" y="706" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-116" value="4、人员部门信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-116" value="人员部门信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1676" y="190" as="sourcePoint" />
-            <mxPoint x="1850" y="190" as="targetPoint" />
+            <mxPoint x="1676" y="245" as="sourcePoint" />
+            <mxPoint x="1850" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-117" value="5、return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.5;exitY=0.398;shadow=0;strokeWidth=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-117" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.5;exitY=0.398;shadow=0;strokeWidth=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1676" y="220" as="targetPoint" />
-            <mxPoint x="1846" y="220.14" as="sourcePoint" />
+            <mxPoint x="1676" y="275" as="targetPoint" />
+            <mxPoint x="1846" y="275.14" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-118" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1671" y="232" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-119" value="6、人员部门关系删除" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-124" value="人员岗位信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1681" y="232" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1711" y="232" />
-            </Array>
-            <mxPoint x="1686" y="252" as="targetPoint" />
+            <mxPoint x="1674.5" y="431" as="sourcePoint" />
+            <mxPoint x="2029" y="431" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-120" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1670" y="267" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-121" value="7、人员部门关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-130" value="用户角色信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1680" y="267" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1710" y="267" />
-            </Array>
-            <mxPoint x="1685" y="287" as="targetPoint" />
+            <mxPoint x="1492.75" y="632" as="sourcePoint" />
+            <mxPoint x="2219.5" y="632" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-124" value="9、人员岗位信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-131" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.3;exitY=1.033;shadow=0;strokeWidth=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1674.5" y="360" as="sourcePoint" />
-            <mxPoint x="2029" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-130" value="15、用户角色信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" parent="1" target="JhATvFRGc8RiKFNdU_sc-107" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1492.75" y="570" as="sourcePoint" />
-            <mxPoint x="1847.25" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-131" value="16、return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.3;exitY=1.033;shadow=0;strokeWidth=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1493.5" y="600.99" as="targetPoint" />
-            <mxPoint x="2220.5" y="600.99" as="sourcePoint" />
+            <mxPoint x="1493.5" y="662.99" as="targetPoint" />
+            <mxPoint x="2220.5" y="662.99" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-133" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="657" width="10" height="30" as="geometry" />
+          <mxGeometry x="1490" y="723" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JhATvFRGc8RiKFNdU_sc-134" value="18、用户角色关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-134" value="用户角色关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1500" y="657" as="sourcePoint" />
+            <mxPoint x="1500" y="723" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1530" y="657" />
+              <mxPoint x="1530" y="723" />
             </Array>
-            <mxPoint x="1505" y="677" as="targetPoint" />
+            <mxPoint x="1505" y="743" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JhATvFRGc8RiKFNdU_sc-147" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
@@ -563,7 +566,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QqDQ2wGyLcQJu00NtUJg-59" value="用户管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="2103" y="770" width="100" height="333" as="geometry" />
+          <mxGeometry x="2345" y="797" width="100" height="333" as="geometry" />
         </mxCell>
         <mxCell id="QqDQ2wGyLcQJu00NtUJg-60" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="QqDQ2wGyLcQJu00NtUJg-59" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
@@ -576,12 +579,12 @@
         </mxCell>
         <mxCell id="QqDQ2wGyLcQJu00NtUJg-63" value="1、停用请求" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="2088" y="841" as="sourcePoint" />
-            <mxPoint x="2148" y="841" as="targetPoint" />
+            <mxPoint x="2330" y="868" as="sourcePoint" />
+            <mxPoint x="2390" y="868" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QqDQ2wGyLcQJu00NtUJg-65" value="人员管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="2273" y="770" width="100" height="333" as="geometry" />
+          <mxGeometry x="2515" y="797" width="100" height="333" as="geometry" />
         </mxCell>
         <mxCell id="QqDQ2wGyLcQJu00NtUJg-66" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="QqDQ2wGyLcQJu00NtUJg-65" vertex="1">
           <mxGeometry x="45" y="130" width="10" height="70" as="geometry" />
@@ -991,75 +994,72 @@
           <mxGeometry x="205" y="2338" width="100" height="362" as="geometry" />
         </mxCell>
         <mxCell id="QqDQ2wGyLcQJu00NtUJg-224" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="QqDQ2wGyLcQJu00NtUJg-223" vertex="1">
-          <mxGeometry x="45" y="80" width="10" height="210" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="QqDQ2wGyLcQJu00NtUJg-225" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="QqDQ2wGyLcQJu00NtUJg-223" vertex="1">
-          <mxGeometry x="50" y="149" width="10" height="30" as="geometry" />
+          <mxGeometry x="50" y="185" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QqDQ2wGyLcQJu00NtUJg-226" value="4、人员部门关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="QqDQ2wGyLcQJu00NtUJg-223" edge="1">
+        <mxCell id="QqDQ2wGyLcQJu00NtUJg-226" value="人员部门关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="QqDQ2wGyLcQJu00NtUJg-223" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="149" as="sourcePoint" />
+            <mxPoint x="60" y="185" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="90" y="149" />
+              <mxPoint x="90" y="185" />
             </Array>
-            <mxPoint x="65" y="169" as="targetPoint" />
+            <mxPoint x="65" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QqDQ2wGyLcQJu00NtUJg-228" value="8、return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="Se7ObuLBj4AdphLszHnw-44" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="QqDQ2wGyLcQJu00NtUJg-223">
+          <mxGeometry x="50" y="92" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-45" value="人员新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" parent="QqDQ2wGyLcQJu00NtUJg-223">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="2628" as="targetPoint" />
-            <mxPoint x="250" y="2627.5" as="sourcePoint" />
+            <mxPoint x="60" y="92" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="92" />
+            </Array>
+            <mxPoint x="65" y="112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QqDQ2wGyLcQJu00NtUJg-228" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="2668" as="targetPoint" />
+            <mxPoint x="250" y="2667.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QqDQ2wGyLcQJu00NtUJg-230" value="部门管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="2338" width="100" height="362" as="geometry" />
         </mxCell>
-        <mxCell id="QqDQ2wGyLcQJu00NtUJg-231" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="QqDQ2wGyLcQJu00NtUJg-230" vertex="1">
-          <mxGeometry x="45" y="100" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QqDQ2wGyLcQJu00NtUJg-232" value="2、部门信息校验" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;rounded=0;" parent="QqDQ2wGyLcQJu00NtUJg-230" edge="1">
+        <mxCell id="QqDQ2wGyLcQJu00NtUJg-233" value="岗位信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" parent="QqDQ2wGyLcQJu00NtUJg-230" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-125" y="100.00000000000011" as="sourcePoint" />
-            <mxPoint x="45" y="100.00000000000011" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QqDQ2wGyLcQJu00NtUJg-233" value="5、岗位信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" parent="QqDQ2wGyLcQJu00NtUJg-230" target="QqDQ2wGyLcQJu00NtUJg-234" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-125" y="200.0000000000001" as="sourcePoint" />
-            <mxPoint x="45" y="200.0000000000001" as="targetPoint" />
+            <mxPoint x="-125" y="233.0000000000001" as="sourcePoint" />
+            <mxPoint x="229.5" y="233" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QqDQ2wGyLcQJu00NtUJg-234" value="岗位管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="565" y="2338" width="100" height="362" as="geometry" />
         </mxCell>
         <mxCell id="QqDQ2wGyLcQJu00NtUJg-235" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="QqDQ2wGyLcQJu00NtUJg-234" vertex="1">
-          <mxGeometry x="45" y="200" width="10" height="30" as="geometry" />
+          <mxGeometry x="45" y="232" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QqDQ2wGyLcQJu00NtUJg-238" value="3、return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="QqDQ2wGyLcQJu00NtUJg-239" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;entryX=1.1;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="2468" as="targetPoint" />
-            <mxPoint x="430" y="2468" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QqDQ2wGyLcQJu00NtUJg-239" value="6、return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;entryX=1.1;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="261" y="2568.94" as="targetPoint" />
-            <mxPoint x="615" y="2568.5" as="sourcePoint" />
+            <mxPoint x="261" y="2601.94" as="targetPoint" />
+            <mxPoint x="615" y="2601.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QqDQ2wGyLcQJu00NtUJg-240" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="253" y="2581" width="10" height="30" as="geometry" />
+          <mxGeometry x="253" y="2625" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QqDQ2wGyLcQJu00NtUJg-241" value="7、人员岗位关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="QqDQ2wGyLcQJu00NtUJg-241" value="人员岗位关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="263" y="2581" as="sourcePoint" />
+            <mxPoint x="263" y="2625" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="293" y="2581" />
+              <mxPoint x="293" y="2625" />
             </Array>
-            <mxPoint x="268" y="2601" as="targetPoint" />
+            <mxPoint x="268" y="2645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QqDQ2wGyLcQJu00NtUJg-243" value="1、新增请求" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" parent="1" edge="1">
+        <mxCell id="QqDQ2wGyLcQJu00NtUJg-243" value="新增请求" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" parent="1" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="180" y="2418" as="sourcePoint" />
             <mxPoint x="240" y="2418" as="targetPoint" />
@@ -1577,6 +1577,213 @@
         </mxCell>
         <mxCell id="ZXpeuByK33yPIrJJZpgC-196" value="&lt;font size=&quot;3&quot;&gt;MariaDb&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="469" y="3510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-1" value="人员管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="50" width="100" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Se7ObuLBj4AdphLszHnw-1">
+          <mxGeometry x="45" y="80" width="10" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Se7ObuLBj4AdphLszHnw-1">
+          <mxGeometry x="50" y="133" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-4" value="人员部门关系过滤" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" parent="Se7ObuLBj4AdphLszHnw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="133" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="133" />
+            </Array>
+            <mxPoint x="65" y="153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-5" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Se7ObuLBj4AdphLszHnw-1">
+          <mxGeometry x="50" y="316" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-6" value="人员岗位关系过滤" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" parent="Se7ObuLBj4AdphLszHnw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="316" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="316" />
+            </Array>
+            <mxPoint x="65" y="336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-23" value="编辑请求" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;fontSize=14;" edge="1" parent="Se7ObuLBj4AdphLszHnw-1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="-15" y="80" as="sourcePoint" />
+            <mxPoint x="45" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-24" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" edge="1" parent="Se7ObuLBj4AdphLszHnw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="490" as="sourcePoint" />
+            <mxPoint x="-25" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-11" value="部门管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="50" width="100" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-12" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Se7ObuLBj4AdphLszHnw-11">
+          <mxGeometry x="45" y="175" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-13" value="岗位管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="50" width="100" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-47" value="岗位管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="Se7ObuLBj4AdphLszHnw-13">
+          <mxGeometry width="100" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-16" value="人员部门信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2516" y="225" as="sourcePoint" />
+            <mxPoint x="2690" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-17" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.5;exitY=0.398;shadow=0;strokeWidth=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2516" y="255" as="targetPoint" />
+            <mxPoint x="2686" y="255.14" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-18" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2511" y="278" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-19" value="人员部门关系删除" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2521" y="278" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2551" y="278" />
+            </Array>
+            <mxPoint x="2526" y="298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-20" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="313" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-21" value="人员部门关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2520" y="313" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2550" y="313" />
+            </Array>
+            <mxPoint x="2525" y="333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-49" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1175" y="407" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-122" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1670" y="385" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-120" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1670" y="332" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-118" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="1671" y="297" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-119" value="人员部门关系删除" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1681" y="297" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1711" y="297" />
+            </Array>
+            <mxPoint x="1686" y="317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-121" value="人员部门关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1680" y="332" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1710" y="332" />
+            </Array>
+            <mxPoint x="1685" y="352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JhATvFRGc8RiKFNdU_sc-123" value="人员岗位关系过滤" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1680" y="385" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1710" y="385" />
+            </Array>
+            <mxPoint x="1685" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-40" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="174" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-41" value="人员信息编辑" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1680" y="174" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1710" y="174" />
+            </Array>
+            <mxPoint x="1685" y="194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QqDQ2wGyLcQJu00NtUJg-232" value="部门信息校验" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="2476" as="sourcePoint" />
+            <mxPoint x="430" y="2476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QqDQ2wGyLcQJu00NtUJg-238" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="2506" as="targetPoint" />
+            <mxPoint x="430" y="2506" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QqDQ2wGyLcQJu00NtUJg-231" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="2476" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-9" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="495" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-10" value="人员岗位关系新增" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2520" y="495" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2550" y="495" />
+            </Array>
+            <mxPoint x="2525" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-7" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="455" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-8" value="人员岗位关系删除" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2520" y="455" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2550" y="455" />
+            </Array>
+            <mxPoint x="2525" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-48" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2865" y="406" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-22" value="人员岗位信息校验" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2514.5" y="406" as="sourcePoint" />
+            <mxPoint x="2869" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-49" value="return" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.3;exitY=1.033;shadow=0;strokeWidth=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Se7ObuLBj4AdphLszHnw-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2515" y="436" as="targetPoint" />
+            <mxPoint x="2860" y="436.14" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-50" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2511" y="140" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se7ObuLBj4AdphLszHnw-51" value="人员信息编辑" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2521" y="140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2551" y="140" />
+            </Array>
+            <mxPoint x="2526" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
