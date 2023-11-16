@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T10:05:22.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yoX2rkbIVw7VaE5n4u3h" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T10:44:26.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WtbO3X7ucbF9HQd14TIj" version="22.1.2" type="github">
   <diagram name="第 1 页" id="N2apjxpWbYqQif2-I4x0">
     <mxGraphModel dx="1434" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1152,7 +1152,7 @@
         <mxCell id="HHs1D9LNS6PUXnt_tCwT-28" value="设备台账" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3182.5" y="1190.5" width="103" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="HHs1D9LNS6PUXnt_tCwT-94" value="可视化层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="HHs1D9LNS6PUXnt_tCwT-94" value="可视化模块" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="2628" y="1105" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HHs1D9LNS6PUXnt_tCwT-95" value="基础模块" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
