@@ -1,9 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T06:13:12.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.2" etag="3Ol2n1nBHhPcZDDtnSs0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T09:41:02.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7bFmmBCxnhH7nQPW7m4E" version="23.1.6" type="github">
   <diagram name="第 1 页" id="TkgwwA-NKMV2TZy8w5t3">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4gDoJh5bMgoMWKIZ3puJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4gDoJh5bMgoMWKIZ3puJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4gDoJh5bMgoMWKIZ3puJ-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4gDoJh5bMgoMWKIZ3puJ-3" value="依据原始数据id查询该原始数据的解析数据列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4gDoJh5bMgoMWKIZ3puJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4gDoJh5bMgoMWKIZ3puJ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4gDoJh5bMgoMWKIZ3puJ-6" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4gDoJh5bMgoMWKIZ3puJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4gDoJh5bMgoMWKIZ3puJ-13" target="4gDoJh5bMgoMWKIZ3puJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gDoJh5bMgoMWKIZ3puJ-13" value="根据筛选条件查询对应试验委托项id及原始数据id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
