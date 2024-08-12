@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-08-12T03:29:03.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.4.13" etag="x-muJdsiYMkp07QgX1j8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-12T06:46:06.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="zx8aXVtvE3bOBGdLfhkb" version="24.4.13" type="github">
   <diagram name="第 1 页" id="_1aIhdmDM284lSInx7OT">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uXgwrSXC-JMC888QQSOs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uXgwrSXC-JMC888QQSOs-1" target="uXgwrSXC-JMC888QQSOs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="48" height="85.71" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-4" value="代理服务器" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="228" y="180" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uXgwrSXC-JMC888QQSOs-5" target="uXgwrSXC-JMC888QQSOs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="179" y="360" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-7" value="应用服务器" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="227" y="360" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uXgwrSXC-JMC888QQSOs-9" target="uXgwrSXC-JMC888QQSOs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uXgwrSXC-JMC888QQSOs-9" target="uXgwrSXC-JMC888QQSOs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="245" y="414.28999999999996" width="48" height="85.71" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-12" value="BOS对象存储" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="548" y="360" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="550" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-15" value="缓存服务器" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="229" y="550" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="560" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-18" value="数据库服务器" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="549" y="560" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-19" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="229" y="603.4100000000001" width="71" height="86.59" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-20" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="560" y="613.4100000000001" width="71" height="86.59" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-21" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="559" y="414.28999999999996" width="71" height="86.59" as="geometry" />
+        </mxCell>
+        <mxCell id="uXgwrSXC-JMC888QQSOs-28" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;测试环境部署说明：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1、代理服务器、应用服务器及数据库服务器均在同一台物理机上；&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、代理服务器、应用服务器均为双节点部署；&lt;/div&gt;&lt;div&gt;正式环境部署说明：&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1、代理服务器、应用服务器均在同一台物理机上；&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、代理服务器、应用服务器均为双节点部署；&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="220" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
