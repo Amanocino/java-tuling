@@ -1619,11 +1619,17 @@
         <mxCell id="tNeqM-YNiM4mZuNuFWeF-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="139" y="3268" width="471" height="162" as="geometry" />
         </mxCell>
+        <mxCell id="tNeqM-YNiM4mZuNuFWeF-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="205" y="3280" width="120" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="tNeqM-YNiM4mZuNuFWeF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tNeqM-YNiM4mZuNuFWeF-17" target="tNeqM-YNiM4mZuNuFWeF-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tNeqM-YNiM4mZuNuFWeF-17" value="web应用服务（tomcat）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="222" y="3288" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tNeqM-YNiM4mZuNuFWeF-31" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="445" y="3284" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tNeqM-YNiM4mZuNuFWeF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tNeqM-YNiM4mZuNuFWeF-19" target="tNeqM-YNiM4mZuNuFWeF-21">
           <mxGeometry relative="1" as="geometry" />
